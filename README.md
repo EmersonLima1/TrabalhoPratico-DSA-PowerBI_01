@@ -10,4 +10,6 @@ Além disso, o Dashboard deve dar ao usuário a possibilidade de filtrar os dado
 
 [Link para o relatório online](https://app.powerbi.com/view?r=eyJrIjoiMWI3OWI0ODQtZDdkNS00MWFkLWFmY2EtZTFjMDdkNTc2Yzc4IiwidCI6ImQ2ODUwYTdhLTI4MmItNGUyNC1hMDBjLWI5OTM4MGVjMGJkMSJ9)
 
+![alt text](https://github.com/EmersonLima1/TrabalhoPratico-DSA-PowerBI_01/blob/main/Captura%20de%20tela%202023-01-17%20172813.png)
+
 
