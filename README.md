@@ -1,5 +1,9 @@
 # Trabalho Prático 01 - Dashboard Analítico de Vendas Globais
+
+<div align="justify">
+
 Esse é o primeiro trabalho prático realizado durante o curso Microsoft Power BI Para Business Intelligence e Data Science 3.0 fornecido pela Data Science Academy. O objetivo desse trabalho é  trabalhar com  dados de vendas de uma empresa fictícia que comercializa produtos em todos os cantos do  mundo. Este Dashboard deve responder as perguntas abaixo:
+
   - Pergunta 1 - Qual o valor total vendido?
   - Pergunta 2 - Quantas vendas foram realizadas por categoria de produto?
   - Pergunta 3 - Quantas vendas foram realizadas por país considerando a prioridade de entrega?
